@@ -3,7 +3,7 @@
   changes:
     - description: Change error handling to dynamically determine whether v1 or v2 api is called.
       type: bugfix
-      link: https://github.com/elastic/integrations/pull/17447
+      link: https://github.com/elastic/integrations/pull/17680
 - version: "2.0.0"
   changes:
     - description: |
